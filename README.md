@@ -1,16 +1,6 @@
 # ecommerce_app
 
-A new Flutter project.
+I finished a beginner course in Flutter with Dart a few weeks ago and I thought it would be a good idea to have a repo about the e-commerce app I made towards the end of the beginer course.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+It is a fairly simple app and I really like Formula 1 so the app is related to it.
+It works on web, and android. I haven't tested it on iOS or any desktop apps yet.
